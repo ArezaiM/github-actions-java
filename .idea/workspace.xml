@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cda643a-bb0b-4d0d-9c14-9ace72f3d39d" name="Changes" comment="Test6">
+    <list default="true" id="4cda643a-bb0b-4d0d-9c14-9ace72f3d39d" name="Changes" comment="Test7 Final Back">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/devopstraining/DevopsTrainingApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/devopstraining/DevopsTrainingApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/devopstraining/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/devopstraining/controller/HelloController.java" afterDir="false" />
@@ -99,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758803782865</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Test6">
+      <option name="closed" value="true" />
+      <created>1758803893864</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1758803893864</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -107,6 +115,7 @@
     <MESSAGE value="Test3" />
     <MESSAGE value="Test4" />
     <MESSAGE value="Test6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test6" />
+    <MESSAGE value="Test7 Final Back" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test7 Final Back" />
   </component>
 </project>
