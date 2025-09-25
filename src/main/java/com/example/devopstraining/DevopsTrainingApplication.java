@@ -10,7 +10,6 @@ public final class DevopsTrainingApplication {
         SpringApplication.run(DevopsTrainingApplication.class, args);
     }
 
-    private DevopsTrainingApplication() {
-
-    }
+    @SuppressWarnings("unused")
+    private final String appName = "DevopsTrainingApplication";
 }
